@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+}
+
+.title {
+    font-size: 16px;
+}
+
+.info {
+    margin-left: 10px;
+}
+
+.text-negative {
+    color: red;
+}
+
+.text-positive {
+    color: green;
+}
